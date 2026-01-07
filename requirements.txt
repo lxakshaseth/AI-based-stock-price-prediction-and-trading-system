@@ -1,0 +1,13 @@
+streamlit
+yfinance
+numpy
+pandas
+plotly
+tensorflow
+scikit-learn
+ta
+vaderSentiment
+fpdf
+pymongo
+bcrypt
+python-dotenv
